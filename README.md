@@ -1,2 +1,2 @@
 # virtual-assistant-portfolio
-my practice project for virtual assistant
+Aspiring Virtual Assistant | Administrative Support | Email and Calendar Management | Customer Service | Open to Remote Opportunities
