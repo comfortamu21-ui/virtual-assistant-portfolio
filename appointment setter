@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comfort Amu | Appointment Setter & Virtual Assistant</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            color: #26334d;
+            line-height: 1.7;
+        }
+
+        header {
+            background: #14213d;
+            color: white;
+            padding: 45px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 18px;
+        }
+
+        nav {
+            background: white;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav a {
+            margin: 10px;
+            color: #176d68;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        section {
+            max-width: 900px;
+            margin: 25px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 12px;
+        }
+
+        h2 {
+            color: #176d68;
+        }
+
+        .card {
+            background: #f0f7f6;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+        }
+
+        .button {
+            display: inline-block;
+            background: #176d68;
+            color: white;
+            padding: 12px 22px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin: 8px;
+        }
+
+        footer {
+            background: #14213d;
+            color: white;
+            text-align: center;
+            padding: 25px;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 28px;
+            }
+
+            section {
+                margin: 15px;
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Comfort Amu</h1>
+    <p>Appointment Setter | Virtual Assistant | Customer Support</p>
+    <p>Helping businesses stay organised, responsive and on schedule.</p>
+    <a class="button" href="#contact">Contact Me</a>
+</header>
+
+<nav>
+    <a href="#about">About Me</a>
+    <a href="#services">Services</a>
+    <a href="#portfolio">Sample Work</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+
+    <p>
+        I am Comfort Amu, an aspiring Appointment Setter and Virtual Assistant
+        with a background in healthcare administration as an HMO Officer.
+        My professional experience has helped me develop communication,
+        organisation, customer service and problem-solving skills.
+    </p>
+
+    <p>
+        I am passionate about helping people, managing requests professionally,
+        maintaining accurate records and ensuring tasks are completed on time.
+        I am a quick learner, detail-oriented and open to learning new tools
+        and processes in a remote work environment.
+    </p>
+
+    <p>
+        I am seeking opportunities to support businesses with appointment
+        scheduling, customer communication and administrative tasks.
+    </p>
+</section>
+
+<section id="services">
+    <h2>My Services</h2>
+
+    <div class="card">
+        <h3>Appointment Setting</h3>
+        <p>Scheduling appointments, sending confirmations, managing rescheduling
+        requests and following up with prospective customers.</p>
+    </div>
+
+    <div class="card">
+        <h3>Virtual Assistance</h3>
+        <p>Email organisation, calendar coordination, data entry, document
+        preparation and administrative support.</p>
+    </div>
+
+    <div class="card">
+        <h3>Customer Support</h3>
+        <p>Responding to customer enquiries, documenting issues, providing
+        professional communication and following up on requests.</p>
+    </div>
+</section>
+
+<section id="portfolio">
+    <h2>My Sample Projects</h2>
+
+    <div class="card">
+        <h3>Project 1: Appointment Follow-Up</h3>
+        <p><strong>Scenario:</strong> A potential customer has shown interest
+        but has not booked a consultation.</p>
+
+        <p><strong>Sample message:</strong></p>
+
+        <p>
+            Hello Jordan, I am following up on your recent enquiry.
+            I would be happy to help you schedule a consultation.
+            Would Tuesday afternoon or Thursday morning be convenient for you?
+        </p>
+
+        <p><strong>Goal:</strong> Encourage the customer to book without
+        making them feel pressured.</p>
+    </div>
+
+    <div class="card">
+        <h3>Project 2: Appointment Confirmation</h3>
+        <p><strong>Scenario:</strong> A customer has booked a meeting and
+        needs confirmation.</p>
+
+        <p><strong>Sample message:</strong></p>
+
+        <p>
+            Hello Sarah, this is a friendly confirmation of your appointment
+            scheduled for Thursday at 10:00 AM. Please let me know if you
+            need any assistance before the meeting. Thank you!
+        </p>
+
+        <p><strong>Goal:</strong> Help customers remember their appointments
+        and keep the schedule organised.</p>
+    </div>
+
+    <div class="card">
+        <h3>Project 3: Managing a Customer Complaint</h3>
+        <p><strong>Scenario:</strong> A customer is unhappy because their
+        appointment needs to be rescheduled.</p>
+
+        <p><strong>Sample response:</strong></p>
+
+        <p>
+            I understand how inconvenient a schedule change can be, and
+            I apologise for the inconvenience. I would be happy to help
+            arrange another suitable time. Would you prefer a morning
+            or afternoon appointment?
+        </p>
+
+        <p><strong>Goal:</strong> Respond with empathy and provide a clear
+        next step toward resolving the issue.</p>
+    </div>
+
+    <div class="card">
+        <h3>Project 4: Daily Administrative Task Tracker</h3>
+
+        <p><strong>Scenario:</strong> A business owner needs help tracking
+        daily administrative responsibilities.</p>
+
+        <ul>
+            <li>Check and organise incoming emails.</li>
+            <li>Review the calendar and confirm appointments.</li>
+            <li>Update customer records and task lists.</li>
+            <li>Follow up on outstanding requests.</li>
+            <li>Prepare a brief end-of-day progress update.</li>
+        </ul>
+
+        <p><strong>Goal:</strong> Improve organisation and reduce missed tasks.</p>
+    </div>
+
+    <p><em>Note: These are fictional practice projects created to demonstrate
+    my approach to common appointment-setting and virtual-assistance tasks.
+    They are not presented as paid client projects.</em></p>
+</section>
+
+<section>
+    <h2>My Professional Strengths</h2>
+
+    <ul>
+        <li>Clear written and verbal communication</li>
+        <li>Customer-focused service</li>
+        <li>Organisation and attention to detail</li>
+        <li>Time management and task prioritisation</li>
+        <li>Problem-solving and active listening</li>
+        <li>Confidentiality and professionalism</li>
+        <li>Willingness to learn new software and systems</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Let's Work Together</h2>
+
+    <p>
+        I welcome opportunities to support businesses and professionals
+        with appointment setting, virtual assistance and customer service.
+    </p>
+
+    <p>Email: comfortamu21@gmail.com</p>
+
+    <a class="button"
+       href="mailto:comfortamu21@gmail.com?subject=Remote%20Work%20Opportunity">
+       Email Me
+    </a>
+
+    <a class="button"
+       href="https://www.linkedin.com/in/amu-oluwabukola-69a804291/"
+       target="_blank" rel="noopener noreferrer">
+       LinkedIn Profile
+    </a>
+</section>
+
+<footer>
+    <p>&copy; 2026 Comfort Amu | Appointment Setter & Virtual Assistant</p>
+</footer>
+
+</body>
+</html>
